@@ -15,7 +15,8 @@ by Jack OmniXRI, 2024/12/15
 2.3.執行預設計 GUI (*.py)  
 3.影像輸出入範例  
 3.1.使用 numpy 格式影像  
-3.2.使用 OpenCV 格式影像 4.影音輸出入範例  
+3.2.使用 OpenCV 格式影像  
+4.影音輸出入範例  
 
 參考文獻：  
 [1] Gradio Document https://www.gradio.app/docs  
