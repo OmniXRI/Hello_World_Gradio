@@ -1,6 +1,6 @@
 # Hello_World_Gradio
 
-**Gradio 應用範例（基礎篇）**   
+## **Gradio 應用範例（基礎篇）**   
 by Jack OmniXRI, 2024/12/15  
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmniXRI/Hello_World_Gradio/blob/main/Hello_World_Gradio.ipynb)  
