@@ -18,8 +18,5 @@ by Jack OmniXRI, 2024/12/15
 [1] Gradio Document https://www.gradio.app/docs  
 [2] OmniXRI Github https://github.com/OmniXRI/Hello_World_Gradio   
 
-點擊連結可直接於Colab上運行  
+點擊連結可直接於Colab上運行，建議可先點選 Colab 選單「檔案」-「在雲端硬碟中儲存副本」，之後就可任意修改範例。  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmniXRI/Hello_World_Gradio/blob/main/Hello_World_Gradio.ipynb)
-
-
-https://colab.research.google.com/github/OmniXRI/Hello_World_Gradio/blob/main/Hello_World_Gradio.ipynb
