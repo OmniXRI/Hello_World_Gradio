@@ -1,6 +1,6 @@
 # Hello_World_Gradio
 
-**Gradio 應用範例（基礎篇）** 
+**Gradio 應用範例（基礎篇）**   
 by Jack OmniXRI, 2024/12/15  
 
 本範例為 Gradio 基礎應用，如下所示。如想了解更多使用方式，可參考 [1]，更完整範例（含測試檔案）可參考 [2]。  
@@ -18,6 +18,8 @@ by Jack OmniXRI, 2024/12/15
 [1] Gradio Document https://www.gradio.app/docs  
 [2] OmniXRI Github https://github.com/OmniXRI/Hello_World_Gradio   
 
-
 點擊連結可直接於Colab上運行  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmniXRI/Hello_World_Gradio/blob/main/Hello_World_Gradio.ipynb)
+
+
 https://colab.research.google.com/github/OmniXRI/Hello_World_Gradio/blob/main/Hello_World_Gradio.ipynb
