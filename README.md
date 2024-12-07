@@ -3,7 +3,8 @@
 **Gradio 應用範例（基礎篇）**   
 by Jack OmniXRI, 2024/12/15  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmniXRI/Hello_World_Gradio/blob/main/Hello_World_Gradio.ipynb)  點擊連結可直接於Colab上運行，建議可先點選 Colab 選單「檔案」-「在雲端硬碟中儲存副本」，之後就可任意修改範例。  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OmniXRI/Hello_World_Gradio/blob/main/Hello_World_Gradio.ipynb)  
+點擊圖示連結可直接於 Google Colab 上運行，建議可先點選 Colab 選單「檔案」-「在雲端硬碟中儲存副本」，之後就可任意修改範例。  
 
 本範例為 Gradio 基礎應用，如下所示。如想了解更多使用方式，可參考 [1]，更完整範例（含測試檔案）可參考 [2]。  
 
