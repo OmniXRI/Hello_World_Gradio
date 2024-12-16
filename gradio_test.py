@@ -10,8 +10,8 @@ def greet2(name, is_morning, temperature):
   return greeting, round(celsius, 2) 
 
 def launch_demo():
-  # 建立輸人及輸出簡單應用界面
-  # fn: 界面函數名稱
+  # 建立輸人及輸出簡單應用介面
+  # fn: 介面函數名稱
   # inputs: 輸人格式， 名字（字串）、是早上（複選盒）、華氏溫度（滑桿，最小值0，最大值100，預設值50）
   # outputs: 輸出格式，結果字串（標籤 Reslut）、結果溫度（標籤 攝氏（℃））
   demo = gr.Interface(
@@ -20,5 +20,5 @@ def launch_demo():
       outputs=[gr.Textbox(label="輸出"), gr.Textbox(label="攝氏（℃）")],
   )
 
-  # 執行顯示界面
+  # 執行顯示介面
   demo.launch()
